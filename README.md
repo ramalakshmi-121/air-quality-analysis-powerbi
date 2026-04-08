@@ -22,6 +22,8 @@ This project focuses on analyzing air quality data from 2021 to 2024 to understa
 - AQI exceeded acceptable limits on 898 days, showing chronic pollution exposure.
 - From 2021 to 2024, 26.28% of days fall in the ‘Unhealthy’ AQI category, confirming long-term air quality worsened.
 
+<img width="1878" height="934" alt="Image" src="https://github.com/user-attachments/assets/1f6cc028-8611-4b78-84c1-bcd50fcebff9" />
+
 ### 2. Pollutant Insights (PM10 & PM2.5)
 - The average PM10 level is 218.22, while average PM2.5 is 90.77, both significantly above recommended health limits.
 - PM10 levels peaked in 2024 at 229.1, indicating worsening dust and coarse particulate pollution in recent years.
@@ -29,7 +31,11 @@ This project focuses on analyzing air quality data from 2021 to 2024 to understa
 - Scatter plot analysis shows a clear positive correlation:
      AQI increases sharply when PM10 and PM2.5 increase, confirming both pollutants as major contributors to poor air quality.
 
+<img width="1883" height="933" alt="Image" src="https://github.com/user-attachments/assets/c46b6d18-1b98-490c-b67c-e9bdbf700e56" />
+
 ### 4. Time-Based Insights (Holiday vs Weekday)
 - Average AQI was highest in 2021 and shows a gradual decline up to 2023, indicating slow improvement but still remaining well above safe limits.
 - November shows the highest monthly AQI with an average of 342.13, making it the most polluted month—likely due to winter inversion and lower wind speeds.
 - Average AQI on holidays is 202.31, slightly higher than weekdays (202.19), indicating marginally higher pollution levels on weekends.
+
+<img width="1666" height="829" alt="Image" src="https://github.com/user-attachments/assets/9d763af4-6e3e-4cca-8e99-5d37430387cb" />
